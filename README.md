@@ -1,2 +1,2 @@
 # traffic-light-tracking
-![Result](./doc/data/bbd.gif)
+![Result](./data/bbd.gif)
