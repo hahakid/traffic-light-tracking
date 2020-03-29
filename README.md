@@ -1,6 +1,6 @@
 # traffic-light-tracking
 
-![network](fusnettv1.png)
+![network](fusenetv1.png)
 
 Distribution of the bounding boxes. The green line (threshold).
 
