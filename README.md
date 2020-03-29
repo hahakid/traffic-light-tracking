@@ -1,10 +1,12 @@
 # traffic-light-tracking
+
 ![network](./fusnettv1.png)
 
-Distribution of the bounding boxes.
-![Result](./data/bbd.gif)
-The low line.
-![Result](./data/empty.jpg)
+Distribution of the bounding boxes. The green line (threshold).
+
+![Seq1](./data/bbd.gif)
+
+![Seq2](./data/empty.jpg)
 
 Part of the labeled dataset is published at Baidu Yun as follows:
 链接：https://pan.baidu.com/s/1mUNtCxg68TAM67xFMAKV8w 
